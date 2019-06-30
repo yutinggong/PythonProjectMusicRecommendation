@@ -13,5 +13,7 @@ observations
 - test_full: 19 variables, 2 million+
 observations
 
-### Final Model
-Xgboost
+### Models
+- Random Forest
+- Xgboost
+- LGBM
